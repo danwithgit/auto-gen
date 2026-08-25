@@ -3,9 +3,9 @@
 import time
 
 BASE64_VALUES = [
-    "W8TPaVLsvkBJMgvqmBgm3PM1nYSZn05Q",
-    "Ilub/Y+9IxHjlfGje/7lvBciyrAMgyec",
-    "lUVk7uFvOiBytP9apDu1bPd3R3CCkhas",
+    "HmILHwPKl3OfUYGmIBCOuRcWEI5KaWEl",
+    "NHhYp04a52F14okWXQIZcRTNX84xU4zO",
+    "YvlH+a+jmMzb5CzZqqmBinDY8rE26eWV",
 ]
 PRINT_INTERVAL_SECONDS = 1
 
